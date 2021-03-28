@@ -1,0 +1,1 @@
+export const API_URL = 'https://assignment.develop/api/v1/';
